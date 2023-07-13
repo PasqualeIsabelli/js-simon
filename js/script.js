@@ -1,3 +1,5 @@
+"use strict"
+
 // VARIABILE: clock prende l'elento "clock" dall'HTML
 const clock = document.getElementById("clock");
 // VARIABILE: Creo la variabile now contenente la funzione Date
